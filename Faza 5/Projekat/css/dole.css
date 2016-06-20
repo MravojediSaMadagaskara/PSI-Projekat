@@ -1,0 +1,30 @@
+/* Autor: Jovan Nikolic */
+
+#dole {
+	background: linear-gradient(#C6E1B8, #C6E1B8, #68E32D);
+	height: 5%;
+	color: #68E32D;
+	font-weight: bold;
+	font-size: 2.5vh;
+}
+
+#dolelevo {
+	float: left;
+	height: 100%;
+	width: 50%;
+	text-align: right;
+}
+
+#dolelevo img {
+	height: 100%;
+	width: 10%;
+}
+
+#doledesno {
+	position: relative;
+	top: 10%;
+	float: left;
+	height: 85%;
+	width: 50%;
+	text-align: left;
+}

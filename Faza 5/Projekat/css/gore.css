@@ -1,0 +1,53 @@
+/* Autor: Jovan Nikolic */
+
+* {
+	margin: 0;
+}
+
+#gore {
+	background: linear-gradient(#72A9CD, #0E1339); 
+	height: 20%;
+	color: #97BADA;
+}
+
+#gorelevo {
+	position: relative;
+	top: 20%;
+	left: 5%;
+	float: left;
+	height: 80%;
+	width: 70%;
+	font-size: 5vh;
+	text-align: left;
+}
+
+#goresredina {
+	position: relative;
+	top: 37.5%;
+	float: left;
+	height: 62.5%;
+	width: 20%;
+	font-size: 2.5vh;
+	text-align: right;
+}
+
+#goresredina img {
+	position: relative;
+	top: 10%;
+	width: 10%;
+	height: 30%;
+}
+
+#goredesno {
+	float: left;
+	height: 100%;
+	width: 10%;
+}
+
+#goredesno img {
+	position: relative;
+	top: 12.5%;
+	left: 12.5%;
+	height: 75%;
+	width: 75%;
+}

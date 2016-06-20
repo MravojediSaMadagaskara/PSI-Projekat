@@ -1,0 +1,40 @@
+/* Autor: Jovan Nikolic */
+
+#meni {
+	background: linear-gradient(#FF9400, #FFD79F, #FFD79F); 
+	height: 5%;
+	color: #FF9400;
+	font-weight: bold;
+	font-size: 2.5vh;
+	text-align: center;
+}
+
+.stavkamenija {
+	position: relative;
+	top: 40%;
+	float: left;
+	height: 60%;
+	width: 25%;
+}
+
+.stavkamenijaurednik {
+	position: relative;
+	top: 40%;
+	float: left;
+	height: 60%;
+	width: 20%;
+}
+
+.stavkamenijaadmin{
+	position: relative;
+	top: 40%;
+	float: left;
+	height: 60%;
+	width: 33.33%;
+}
+
+#meni a {
+	color: #FF9400;
+	text-decoration: none;
+	display: block;
+}
